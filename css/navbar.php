@@ -65,7 +65,7 @@ $_SESSION['id'] = $regValue2;
       @include 'sidebar_patient.php';
     }
     ?>
-      &nbsp;&nbsp;&nbsp;<a href="/" class="navbar-brand"><i class="fas fa-heartbeat"></i>&nbsp; Blood Bank Management</a>
+      &nbsp;&nbsp;&nbsp;<a href="/" class="navbar-brand"><i class="fas fa-heartbeat"></i>&nbsp; Health Care Center </a>
       <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
         <span class="navbar-toggler-icon"></span>
       </button>

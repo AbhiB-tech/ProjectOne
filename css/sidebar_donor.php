@@ -52,6 +52,7 @@ body {
 
 <div id="mySidenav" class="sidenav">
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <a href="../predict/dashboard1.php"> Home </a>
     <a href="../donor/donor_home.php"> Dashboard</a>
     <a href="../donor/donate_blood.php"> Donate Blood</a>
     <a href="../donor/my_donation_history.php"> Donation History</a>
